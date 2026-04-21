@@ -35,3 +35,19 @@ This project is a website developed as part of the WEDE 5020 practical assignmen
 ---
 
 ## Sitemap
+
+![Website Sitemap](![](![alt text](image-1.png))) <br> (The one here is only an example, include your own site map)
+
+## References
+
+Checkers. (2026). Checkers Official Website. Available at: https://www.checkers.co.za/
+
+Unsplash. (2026). Free Stock Images. Available at: https://unsplash.com/
+
+Pexels. (2026). Free Stock Photos. Available at: https://www.pexels.com/
+
+Pixabay. (2026). Free Images and Videos. Available at: https://pixabay.com/
+
+W3Schools. (2026). HTML Tutorial. Available at: https://www.w3schools.com/html/
+
+W3Schools. (2026). CSS Tutorial. Available at: https://www.w3schools.com/css/
